@@ -1,4 +1,4 @@
-ROSTemplateFormatVersion: "2015-09-01"
+ROSTemplateFormatVersion: "dev-2015-09-01"
 Parameters:
 Description:
 Resources:
